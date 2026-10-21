@@ -1,0 +1,6 @@
+{
+  "name": "JanSeva AI - Multilingual Scheme Assistant & RAG Portal",
+  "description": "India-wide Central and State government schemes discovery with intelligent RAG layer, multilingual support, and secure OTP authentication.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
